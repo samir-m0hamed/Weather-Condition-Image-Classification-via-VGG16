@@ -83,7 +83,7 @@ The model is trained using a **two-phase transfer learning approach**.
 - Stable validation trend
 - Effective initial feature adaptation
 
-![Feature Extraction Performance](assets/Feature%20Extraction%20Results.png)
+![Feature Extraction Performance](Feature%20Extraction%20Results.png)
 
 ### Fine-Tuning Phase
 - Improved accuracy
@@ -91,7 +91,7 @@ The model is trained using a **two-phase transfer learning approach**.
 - Better generalization
 - Strong representation refinement
 
-![Fine Tuning Performance](assets/Fine%20Tuning%20Results.png)
+![Fine Tuning Performance](Fine%20Tuning%20Results.png)
 
 ---
 
