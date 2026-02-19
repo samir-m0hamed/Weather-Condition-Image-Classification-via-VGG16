@@ -1,4 +1,4 @@
-# 🌦 Weather Image Recognition using VGG16 Transfer Learning
+# 🌦 Weather Image Recognition via VGG16 Transfer Learning
 
 This project presents a complete deep learning pipeline for classifying weather conditions from images using **VGG16 Transfer Learning**.  
 It demonstrates an end-to-end computer vision workflow including data preprocessing, structured dataset splitting, feature extraction, and progressive fine-tuning for performance optimization.
@@ -83,7 +83,7 @@ The model is trained using a **two-phase transfer learning approach**.
 - Stable validation trend
 - Effective initial feature adaptation
 
-![Feature Extraction Performance]("assets/Feature Extraction Results.png")
+![Feature Extraction Performance](assets/Feature%20Extraction%20Results.png)
 
 ### Fine-Tuning Phase
 - Improved accuracy
@@ -91,7 +91,7 @@ The model is trained using a **two-phase transfer learning approach**.
 - Better generalization
 - Strong representation refinement
 
-![Fine Tuning Performance]("assets/Fine Tuning Results.png")
+![Fine Tuning Performance](assets/Fine%20Tuning%20Results.png)
 
 ---
 
